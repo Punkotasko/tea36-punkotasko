@@ -1,0 +1,24 @@
+{
+  "name": "tea36-punkotasko",
+  "version": "1.0.1",
+  "description": "常用的表单验证",
+  "main": "validateForm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Punkotasko/tea36-punkotasko.git"
+  },
+  "keywords": [],
+  "author": "Punkotasko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Punkotasko/tea36-punkotasko/issues"
+  },
+  "homepage": "https://github.com/Punkotasko/tea36-punkotasko#readme",
+  "dependencies": {
+    "api-chatfb": "^0.0.1-security",
+    "tea01-tankqing88": "^1.0.0"
+  }
+}
